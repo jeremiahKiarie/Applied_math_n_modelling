@@ -7,6 +7,9 @@ We will be focusing on an RC discharging circuit as shown in the image below:
     <p style="max-width: 400px;">The circuit consists of a resistor (R) and a capacitor (C) connected in series, with the capacitor fully charged.</p>  
 </div>
 
+<script type="text/javascript" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 Kirchhoff's voltage law states that the sum of the potential differences (voltage) around any closed loop in a circuit must equal zero.
 Starting from the lower left corner and moving counterclockwise, we can write the equation for the circuit as follows:
 $$ V_c + V_r = 0 $$
