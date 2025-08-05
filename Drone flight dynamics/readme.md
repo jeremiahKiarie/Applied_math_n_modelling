@@ -1,0 +1,2 @@
+## Drone flight dynamics
+This notebook provides a mathematical model for the vertical dynamics of a drone, including the forces acting on it and the resulting motion. The model is based on Newton's second law of motion and includes the effects of thrust, drag, and gravity.
