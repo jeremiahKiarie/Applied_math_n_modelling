@@ -1,0 +1,2 @@
+## SIRS Disease Model
+This notebook demonstrates the SIRS disease model, which describes the dynamics of a disease in a population with three compartments: Susceptible (S), Infected (I), and Recovered (R). The model includes the possibility of individuals losing immunity and returning to the susceptible state (S: Susceptible again).
